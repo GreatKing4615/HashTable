@@ -1,4 +1,4 @@
-// Реализация хэш-таблицы в C++
+// HashTable via C++
 
 #include <iostream>
 #include <list>
